@@ -1,6 +1,6 @@
 layout: {zmk_keyboard: eyeslash_corne}
 layers:
-  QWERTY:
+  DEF:
   - $$mdi:keyboard-tab$$
   - Q
   - W
@@ -14,7 +14,7 @@ layers:
   - O
   - P
   - {t: '[', s: '{'}
-  - {t: '`', h: QWERTY HYPER, s: '~'}
+  - {t: '`', h: HYPER, s: '~'}
   - {t: A, h: LGUI}
   - {t: S, h: '$$mdi:apple-keyboard-control$$'}
   - {t: D, h: '$$mdi:apple-keyboard-option$$'}
@@ -47,9 +47,9 @@ layers:
   - ARROW
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - NUMBER
+  - NUM
   - {t: \, s: '|'}
-  QWERTY HYPER:
+  HYPER:
   - $$mdi:keyboard-tab$$
   - Hyper+Q
   - Hyper+W
@@ -96,9 +96,9 @@ layers:
   - ARROW
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - NUMBER
+  - NUM
   - {t: Hyper+\, s: Hyper+|}
-  NUMBER:
+  NUM:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - F1
   - F2
@@ -112,7 +112,7 @@ layers:
   - F9
   - F11
   - F12
-  - {t: NUMBER (FN), type: held alternate}
+  - {t: FN, type: held alternate}
   - {t: '1', h: '$$mdi:apple-keyboard-command$$', s: '!'}
   - {t: '2', h: '$$mdi:apple-keyboard-control$$', s: '@'}
   - {t: '3', h: '$$mdi:apple-keyboard-option$$', s: '#'}
@@ -147,7 +147,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {type: held}
   - {t: \, s: '|'}
-  NUMBER (FN):
+  FN:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:brightness-7$$
   - $$mdi:brightness-5$$
@@ -245,7 +245,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  SYSTEM:
+  SYS:
   - {t: '$$mdi:backup-restore$$', type: bootloader}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -296,7 +296,7 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
 combos:
 - p: [43, 46]
-  k: SYSTEM
+  k: SYS
 - p: [46, 14, 17, 37]
   k: Gui+Sft+=
 - p: [46, 23, 26, 32]
