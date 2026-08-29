@@ -7,7 +7,6 @@ layers:
   - E
   - R
   - T
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - Y
   - U
   - I
@@ -20,9 +19,6 @@ layers:
   - {t: D, h: '$$mdi:apple-keyboard-option$$'}
   - {t: F, h: '$$mdi:apple-keyboard-shift$$'}
   - G
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: H, h: GLOBE}
   - {t: J, h: '$$mdi:apple-keyboard-shift$$'}
   - {t: K, h: '$$mdi:apple-keyboard-option$$'}
@@ -35,7 +31,6 @@ layers:
   - C
   - V
   - B
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - N
   - M
@@ -56,7 +51,6 @@ layers:
   - Hyper+E
   - Hyper+R
   - Hyper+T
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - Hyper+Y
   - Hyper+U
   - Hyper+I
@@ -69,9 +63,6 @@ layers:
   - Hyper+D
   - Hyper+F
   - Hyper+G
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - Hyper+H
   - Hyper+J
   - Hyper+K
@@ -84,7 +75,6 @@ layers:
   - Hyper+C
   - Hyper+V
   - Hyper+B
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - Hyper+N
   - Hyper+M
@@ -105,7 +95,6 @@ layers:
   - F3
   - F4
   - F5
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - F6
   - F7
   - F8
@@ -118,9 +107,6 @@ layers:
   - {t: '3', h: '$$mdi:apple-keyboard-option$$', s: '#'}
   - {t: '4', h: '$$mdi:apple-keyboard-shift$$', s: $}
   - {t: '5', s: '%'}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '6', s: ^}
   - {t: '7', h: '$$mdi:apple-keyboard-shift$$', s: '&'}
   - {t: '8', h: '$$mdi:apple-keyboard-option$$', s: '*'}
@@ -132,7 +118,6 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '-', s: _}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -154,7 +139,6 @@ layers:
   - F11
   - '&prtscr_fast'
   - '&prtscr'
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - PREVIOUS
   - PLAY PAUSE
   - $$mdi:skip-next$$
@@ -167,9 +151,6 @@ layers:
   - {t: '3', h: '$$mdi:apple-keyboard-option$$', s: '#'}
   - {t: '4', h: '$$mdi:apple-keyboard-shift$$', s: $}
   - {t: '5', s: '%'}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '6', s: ^}
   - {t: '7', h: '$$mdi:apple-keyboard-shift$$', s: '&'}
   - {t: '8', h: '$$mdi:apple-keyboard-option$$', s: '*'}
@@ -181,7 +162,6 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '-', s: _}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -204,7 +184,6 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - END
   - HOME
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -216,14 +195,10 @@ layers:
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-shift$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-right-bold$$
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -259,14 +234,10 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - BT CLR ALL
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -288,20 +259,19 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: held}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: held}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
 combos:
-- p: [43, 46]
+- p: [38, 41]
   k: SYS
-- p: [46, 14, 17, 37]
+- p: [41, 13, 16, 32]
   k: Gui+Sft+=
-- p: [46, 23, 26, 32]
+- p: [41, 19, 22, 28]
   k: Gui+Sft+-
-- p: [43, 15, 25]
+- p: [38, 14, 21]
   k: Ctl+$$mdi:arrow-right-bold$$
-- p: [43, 15, 22]
+- p: [38, 14, 18]
   k: Ctl+$$mdi:arrow-left-bold$$
